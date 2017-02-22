@@ -5,7 +5,7 @@ Android - ToolBarAlphaBehavior
 
 ## Demo
 
-![ToolBarAlphaBehavior GIF](./blobs/demo.gif)
+![ToolBarAlphaBehavior GIF](./gif/demo.gif)
 
 
 ## How to Use
